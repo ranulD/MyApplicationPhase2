@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">WALLAPP</string>
+    <string name="username">USERNAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="forgotPass">FORGOT PASSWORD ?</string>
+    <string name="logbutton">Sign In</string>
+    <string name="regisbutton">REGISTER</string>
+
+    <string name="navHeader">WallPaper.com</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+    <string name="youracc">Your Account</string>
+    <string name="history">History</string>
+    <string name="settings">Settings</string>
+    <string name="removeAdds">Remove Adds</string>
+    <string name="page_favorites">Favourites</string>
+    <string name="hint_favorites">FAVOURITES</string>
+    <string name="page_history">History</string>
+    <string name="hint_history">HISTORY</string>
+
+    <string name="regisname">Name</string>
+    <string name="regisPass">Password</string>
+    <string name="regisemail">E-mail</string>
+    <string name="regis_Tel">Mobile</string>
+    <string name="regisButton">REGISTER</string>
+    <string name="regiscancel">CANCEL</string>
+
+    <string name="oldpass">OLD PASSWORD</string>
+    <string name="newpass">NEW PASSWORD</string>
+    <string name="confirmpass">CONFIRM PASSWORD</string>
+    <string name="reset">RESET</string>
+
+    <string name="youruploads">Your Uploads</string>
+    <string name="upload">UPLOAD>>>>>></string>
+    <string name="updateYourDetails">Update Your Details HERE !</string>
+
+
+
+</resources>
